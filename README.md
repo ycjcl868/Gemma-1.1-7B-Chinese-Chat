@@ -1,10 +1,9 @@
 # Gemma-1.1-7B-Chinese-Chat
 Chinese chat model specifically fine-tuned for Chinese through SFT based on the gemma-1.1-7b-it model.
 
-
 # Model Summary
 
-[Gemma-1.1-7B-Chinese-Chat](https://huggingface.co/ycjcl868/Gemma-1.1-7B-Chinese-Chat) is an instruction-tuned language model for Chinese & English users built upon the gemma-1.1-7b-it model.
+[Gemma-1.1-7B-Chinese-Chat](https://huggingface.co/ycjcl868/Gemma-1.1-7B-Chinese-Chat) is an instruction-tuned language model for Chinese & English users built upon the gemma-1.1-7b-it model.([Github](https://github.com/ycjcl868/Gemma-1.1-7B-Chinese-Chat/tree/main))
 
 Developed by: [ycjcl868](https://github.com/ycjcl868)
 
