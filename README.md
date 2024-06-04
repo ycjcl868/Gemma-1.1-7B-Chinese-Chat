@@ -2,6 +2,7 @@
 Chinese chat model specifically fine-tuned for Chinese through SFT based on the gemma-1.1-7b-it model.
 
 # Updates
+- [June 04, 2024] 🌈 Add more Chinese training data to improve Chinese performance
 - [May 23, 2024] 🔥 support function calling
 
 
